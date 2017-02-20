@@ -26,6 +26,6 @@ Based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Ot
 
 ## Copyright and License
 
-Copyright 2016-2017 Awd Design. Code released under the [MIT](https://github.com/awddesign/LICENSE) license.
+Copyright 2016-2017 Awd Design. Code released under the [MIT](https://github.com/awddesign/Licence.txt) license.
 
 
